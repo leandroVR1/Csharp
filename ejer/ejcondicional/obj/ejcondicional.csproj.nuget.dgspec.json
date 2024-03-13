@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/riwip5024/Documents/Leo/ejer/ejcondicional/ejcondicional.csproj": {}
+    "/home/riwip5024/Documents/Leo/Csharp/Csharp/ejer/ejcondicional/ejcondicional.csproj": {}
   },
   "projects": {
-    "/home/riwip5024/Documents/Leo/ejer/ejcondicional/ejcondicional.csproj": {
+    "/home/riwip5024/Documents/Leo/Csharp/Csharp/ejer/ejcondicional/ejcondicional.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/riwip5024/Documents/Leo/ejer/ejcondicional/ejcondicional.csproj",
+        "projectUniqueName": "/home/riwip5024/Documents/Leo/Csharp/Csharp/ejer/ejcondicional/ejcondicional.csproj",
         "projectName": "ejcondicional",
-        "projectPath": "/home/riwip5024/Documents/Leo/ejer/ejcondicional/ejcondicional.csproj",
+        "projectPath": "/home/riwip5024/Documents/Leo/Csharp/Csharp/ejer/ejcondicional/ejcondicional.csproj",
         "packagesPath": "/home/riwip5024/.nuget/packages/",
-        "outputPath": "/home/riwip5024/Documents/Leo/ejer/ejcondicional/obj/",
+        "outputPath": "/home/riwip5024/Documents/Leo/Csharp/Csharp/ejer/ejcondicional/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/riwip5024/.nuget/NuGet/NuGet.Config"

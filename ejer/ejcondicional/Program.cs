@@ -121,7 +121,7 @@ if(mes>0 && mes<=12)
 
 
 //Ej10
-using System.Data;
+/* using System.Data;
 
 Console.WriteLine("Triangulo");
 Console.WriteLine("Digite el lado 1 del triangulo");
@@ -145,35 +145,62 @@ if (lado1 != lado2 && lado1!= lado3 && lado2!= lado3)
 {
     Console.WriteLine("El triangulo es escaleno");
 }
-
+ */
 
 //Ej12
-Console.WriteLine("Ingrese el precio del producto");
-            double precio = double.Parse(Console.ReadLine());
-            Console.WriteLine("Ingrese el porcentaje de descuento apicable");
-            double porcentaje = double.Parse(Console.ReadLine());
-
-            double descuento = (precio * porcentaje)/100;
-            Console.WriteLine($"El valor a pagar es de {descuento}");
+/* Console.WriteLine("Ingrese el precio del producto");
+double precio = double.Parse(Console.ReadLine());
+Console.WriteLine("Ingrese el porcentaje de descuento apicable");
+double porcentaje = double.Parse(Console.ReadLine());
+double descuento = (precio * porcentaje)/100;
+Console.WriteLine($"El valor a pagar es de {descuento}"); */
 
 
 //Ej 13
-  Console.WriteLine("Ingrese el Valor 1");
-            int valor1 = int.Parse(Console.ReadLine());
-            
-            Console.WriteLine("Ingrese el Valor 2");
-            int valor2 = int.Parse(Console.ReadLine());
+/* Console.WriteLine("Ingrese el Valor 1");
+int valor1 = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Ingrese el Valor 3");
-            int valor3 = int.Parse(Console.ReadLine());
+Console.WriteLine("Ingrese el Valor 2");
+int valor2 = int.Parse(Console.ReadLine());
 
-            double operacion = (valor1 + valor2) * valor3
+Console.WriteLine("Ingrese el Valor 3");
+int valor3 = int.Parse(Console.ReadLine());
+
+double operacion = (valor1 + valor2) * valor3;
             if(valor1 == valor2 && valor2==valor3)
             {
-                Console.WriteLine(operacion)
+                Console.WriteLine(operacion);
             }else
-            {
-                Console.WriteLine("Los valores no son iguales")
-            }
+{
+    Console.WriteLine("Los valores no son iguales");
+            } */
+
+//Ej 14
+/* Console.WriteLine("Ingrese el Valor equivale su sueldo");
+int sueldo = int.Parse(Console.ReadLine());
+Console.WriteLine("Ingrese los años de antiguedad");
+int antiguedad = int.Parse(Console.ReadLine());
+double sueldoActual=0;
+int aumento=0;
+if((sueldo<500) && (antiguedad>=10)){
+    sueldoActual = ((sueldo * 20)/100)+sueldo;
+    aumento = 20;
+}else if((sueldo<500) && (antiguedad < 10)){
+    sueldoActual = ((sueldo * 5)/100)+sueldo;
+    aumento = 5;
+}else{
+    Console.WriteLine($"Su sueldo es igual a {sueldoActual}");
+}
+    Console.WriteLine($"Tienes un aumento del {aumento} Su sueldo es igual a {sueldoActual}"); */
 
 
+dynamic dyn = 1;
+object obj = 1;
+
+Console.WriteLine(dyn);
+Console.WriteLine(dyn.GetType());
+
+Console.WriteLine(obj);
+Console.WriteLine(obj.GetType());
+
+dyn = dyn + 3;

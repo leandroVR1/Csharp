@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/riwip5024/Documents/Leo/C#/string/consoleProject/consoleProject.csproj": {}
+    "/home/riwip5024/Documents/Leo/Csharp/Csharp/string/consoleProject/consoleProject.csproj": {}
   },
   "projects": {
-    "/home/riwip5024/Documents/Leo/C#/string/consoleProject/consoleProject.csproj": {
+    "/home/riwip5024/Documents/Leo/Csharp/Csharp/string/consoleProject/consoleProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/riwip5024/Documents/Leo/C#/string/consoleProject/consoleProject.csproj",
+        "projectUniqueName": "/home/riwip5024/Documents/Leo/Csharp/Csharp/string/consoleProject/consoleProject.csproj",
         "projectName": "consoleProject",
-        "projectPath": "/home/riwip5024/Documents/Leo/C#/string/consoleProject/consoleProject.csproj",
+        "projectPath": "/home/riwip5024/Documents/Leo/Csharp/Csharp/string/consoleProject/consoleProject.csproj",
         "packagesPath": "/home/riwip5024/.nuget/packages/",
-        "outputPath": "/home/riwip5024/Documents/Leo/C#/string/consoleProject/obj/",
+        "outputPath": "/home/riwip5024/Documents/Leo/Csharp/Csharp/string/consoleProject/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/riwip5024/.nuget/NuGet/NuGet.Config"
