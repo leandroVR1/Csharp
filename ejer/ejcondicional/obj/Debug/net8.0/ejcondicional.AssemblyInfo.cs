@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ejcondicional")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7e3a6f2b7878eb673fa58adb15acbd609207662")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f54e7b7f3b5fc54c7766524efff53a97d13e9553")]
 [assembly: System.Reflection.AssemblyProductAttribute("ejcondicional")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ejcondicional")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

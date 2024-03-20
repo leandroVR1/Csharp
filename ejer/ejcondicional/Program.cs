@@ -194,7 +194,7 @@ if((sueldo<500) && (antiguedad>=10)){
     Console.WriteLine($"Tienes un aumento del {aumento} Su sueldo es igual a {sueldoActual}"); */
 
 
-dynamic dyn = 1;
+/*dynamic dyn = 1;
 object obj = 1;
 
 Console.WriteLine(dyn);
@@ -203,4 +203,9 @@ Console.WriteLine(dyn.GetType());
 Console.WriteLine(obj);
 Console.WriteLine(obj.GetType());
 
-dyn = dyn + 3;
+dyn = dyn + 3;*/
+
+static void  Hola(){
+    Console.WriteLine("Hola");
+}
+Hola();
