@@ -18,6 +18,11 @@ namespace Mvc.Controllers //apuntar a laa carpeta controller
             return View();
         }
 
+        public IActionResult actionResult()
+        {
+            return View();
+        }
+
         
     }
 }
