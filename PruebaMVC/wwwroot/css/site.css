@@ -19,4 +19,24 @@ html {
 
 body {
   margin-bottom: 60px;
+  
+  
 }
+
+.cuerpo{
+  margin-top: 150px;
+}
+
+.titulo {
+  display: flex;
+  justify-content: center;
+}
+
+.Botones{
+  display: flex;
+  justify-content: space-between;
+  margin: 50px;
+  
+
+}
+
